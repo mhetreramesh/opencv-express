@@ -15,12 +15,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/justadudewhohacks/opencv-express"
+    "url": "git+https://github.com/mhetreramesh/opencv-express"
   },
   "bugs": {
-    "url": "https://github.com/justadudewhohacks/opencv-express/issues"
+    "url": "https://github.com/mhetreramesh/opencv-express/issues"
   },
-  "homepage": "https://github.com/justadudewhohacks/opencv-express#readme",
+  "homepage": "https://github.com/mhetreramesh/opencv-express#readme",
   "scripts": {
     "start": "docker-compose up"
   },
